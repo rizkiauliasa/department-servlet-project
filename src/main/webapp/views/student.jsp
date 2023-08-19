@@ -1,8 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ page import="com.department.aul.models.Data"%>
-<%@ page import="java.util.Map"%>
-<%@ page import="java.util.List"%>
 <%@ page import="com.google.gson.Gson"%>
 <!DOCTYPE html>
 <html>
